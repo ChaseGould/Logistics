@@ -1,9 +1,12 @@
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
-import java.util.Vector;
+
 
 public class Test {
+	
+	
+	//need to add comments and print lines so user know what program is doing
 
 	public static void main(String[] args) {
 		
